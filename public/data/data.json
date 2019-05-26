@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Lunch",
+        "cat": "food",
+        "date":new Date(),
+        "amount": 200
+    },
+    {
+        "id": 2,
+        "name": "Petrol",
+        "cat": "fuel",
+        "date":new Date(),
+        "amount": 200
+    },
+    {
+        "id": 3,
+        "name": "Movie Ticket",
+        "cat": "entertainment",
+        "date":new Date(),
+        "amount": 200
+    },
+    {
+        "id": 4,
+        "name": "Chips",
+        "cat": "food",
+        "date":new Date(),
+        "amount": 60
+    }
+]
