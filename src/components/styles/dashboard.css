@@ -1,0 +1,25 @@
+.list-container {
+    width: 600px !important;
+}
+
+.dashboard-main {
+    display: flex;
+    flex-direction: column;
+    /* place-content: center;
+    justify-content: center; */
+    align-items: center;
+}
+
+.header {
+    width: calc(100% - 30px);
+    width: -webkit-fill-available;
+    padding: 15px;
+    background: #017b7b;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.dashboard-container{
+    /* display: flex; */
+}
